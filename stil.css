@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Dokument */
+p {
+    color: teal;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Gergia, "serif";
+    font-size: 16px
+    line-height: 18px;
+    width: 600px;
+    background-color: aliceblue;
+    padding: 20px;
+}
+h1, h2, h3 {
+  font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-Serif";
+  color: burlywood;
+ }
+
+body {
+  background-image: url(slike/pozadina.jpg);
+ }
+
+ a {
+   color: teal;
+ }
+
+q {
+  color: gold;
+  }
+  li {
+    color: cyan;
